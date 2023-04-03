@@ -1,0 +1,15 @@
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\bin\Debug\net6.0\Singleton.exe
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\bin\Debug\net6.0\Singleton.deps.json
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\bin\Debug\net6.0\Singleton.runtimeconfig.json
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\bin\Debug\net6.0\Singleton.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\bin\Debug\net6.0\Singleton.pdb
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\obj\Debug\net6.0\Singleton.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\obj\Debug\net6.0\refint\Singleton.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\obj\Debug\net6.0\Singleton.pdb
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab1\ConsoleApp1\obj\Debug\net6.0\ref\Singleton.dll
