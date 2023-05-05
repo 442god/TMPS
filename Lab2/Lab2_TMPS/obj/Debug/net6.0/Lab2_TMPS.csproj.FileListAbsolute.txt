@@ -1,0 +1,15 @@
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\bin\Debug\net6.0\Lab2_TMPS.exe
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\bin\Debug\net6.0\Lab2_TMPS.deps.json
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\bin\Debug\net6.0\Lab2_TMPS.runtimeconfig.json
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\bin\Debug\net6.0\Lab2_TMPS.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\bin\Debug\net6.0\Lab2_TMPS.pdb
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\obj\Debug\net6.0\Lab2_TMPS.csproj.AssemblyReference.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\obj\Debug\net6.0\Lab2_TMPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\obj\Debug\net6.0\Lab2_TMPS.AssemblyInfoInputs.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\obj\Debug\net6.0\Lab2_TMPS.AssemblyInfo.cs
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\obj\Debug\net6.0\Lab2_TMPS.csproj.CoreCompileInputs.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\obj\Debug\net6.0\Lab2_TMPS.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\obj\Debug\net6.0\refint\Lab2_TMPS.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\obj\Debug\net6.0\Lab2_TMPS.pdb
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\obj\Debug\net6.0\Lab2_TMPS.genruntimeconfig.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab2\Lab2_TMPS\obj\Debug\net6.0\ref\Lab2_TMPS.dll
