@@ -1,6 +1,4 @@
-﻿using System;
-
-public interface IFlightSchedule
+﻿public interface IFlightSchedule
 {
     void DisplayFlights();
 }

@@ -1,6 +1,4 @@
-﻿using System;
-
-public class AeroportFacade
+﻿public class AeroportFacade
 {
     private readonly CheckInSystem _checkInSystem;
     private readonly SecuritySystem _securitySystem;

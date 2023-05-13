@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 interface IAvion
 {
     void Decolare();

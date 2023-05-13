@@ -1,0 +1,15 @@
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\bin\Debug\net6.0\SRP + ISP.exe
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\bin\Debug\net6.0\SRP + ISP.deps.json
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\bin\Debug\net6.0\SRP + ISP.runtimeconfig.json
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\bin\Debug\net6.0\SRP + ISP.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\bin\Debug\net6.0\SRP + ISP.pdb
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\SRP + ISP.csproj.AssemblyReference.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\SRP + ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\SRP + ISP.AssemblyInfoInputs.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\SRP + ISP.AssemblyInfo.cs
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\SRP + ISP.csproj.CoreCompileInputs.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\SRP + ISP.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\refint\SRP + ISP.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\SRP + ISP.pdb
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\SRP + ISP.genruntimeconfig.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\ref\SRP + ISP.dll

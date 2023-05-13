@@ -1,0 +1,15 @@
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\bin\Debug\net6.0\Single Responsability + Interface Segregation.exe
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\bin\Debug\net6.0\Single Responsability + Interface Segregation.deps.json
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\bin\Debug\net6.0\Single Responsability + Interface Segregation.runtimeconfig.json
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\bin\Debug\net6.0\Single Responsability + Interface Segregation.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\bin\Debug\net6.0\Single Responsability + Interface Segregation.pdb
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\Single Responsability + Interface Segregation.csproj.AssemblyReference.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\Single Responsability + Interface Segregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\Single Responsability + Interface Segregation.AssemblyInfoInputs.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\Single Responsability + Interface Segregation.AssemblyInfo.cs
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\Single Responsability + Interface Segregation.csproj.CoreCompileInputs.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\Single Responsability + Interface Segregation.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\refint\Single Responsability + Interface Segregation.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\Single Responsability + Interface Segregation.pdb
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\Single Responsability + Interface Segregation.genruntimeconfig.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab4\ConsoleApp1\obj\Debug\net6.0\ref\Single Responsability + Interface Segregation.dll

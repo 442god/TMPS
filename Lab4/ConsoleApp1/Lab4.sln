@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single Responsability + Interface Segregation", "Single Responsability + Interface Segregation.csproj", "{06BD1E0E-221E-475A-91CC-9B31A6823A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosed + Liskov", "..\OCP + LSP\OpenClosed + Liskov.csproj", "{664FC211-F113-46B7-B4E9-926ED604BEB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency Inversion", "..\Dependency Inversion\Dependency Inversion.csproj", "{579BF99E-4453-4B7F-8EAA-4BC32C468ACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06BD1E0E-221E-475A-91CC-9B31A6823A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06BD1E0E-221E-475A-91CC-9B31A6823A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06BD1E0E-221E-475A-91CC-9B31A6823A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06BD1E0E-221E-475A-91CC-9B31A6823A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664FC211-F113-46B7-B4E9-926ED604BEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664FC211-F113-46B7-B4E9-926ED604BEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664FC211-F113-46B7-B4E9-926ED604BEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664FC211-F113-46B7-B4E9-926ED604BEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579BF99E-4453-4B7F-8EAA-4BC32C468ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579BF99E-4453-4B7F-8EAA-4BC32C468ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579BF99E-4453-4B7F-8EAA-4BC32C468ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579BF99E-4453-4B7F-8EAA-4BC32C468ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C23B15-4802-4E67-8B41-2492D9AA28B1}
+	EndGlobalSection
+EndGlobal
