@@ -1,0 +1,15 @@
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\bin\Debug\net6.0\Chain of Responsability.exe
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\bin\Debug\net6.0\Chain of Responsability.deps.json
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\bin\Debug\net6.0\Chain of Responsability.runtimeconfig.json
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\bin\Debug\net6.0\Chain of Responsability.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\bin\Debug\net6.0\Chain of Responsability.pdb
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\obj\Debug\net6.0\Chain of Responsability.csproj.AssemblyReference.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\obj\Debug\net6.0\Chain of Responsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\obj\Debug\net6.0\Chain of Responsability.AssemblyInfoInputs.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\obj\Debug\net6.0\Chain of Responsability.AssemblyInfo.cs
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\obj\Debug\net6.0\Chain of Responsability.csproj.CoreCompileInputs.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\obj\Debug\net6.0\Chain of Responsability.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\obj\Debug\net6.0\refint\Chain of Responsability.dll
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\obj\Debug\net6.0\Chain of Responsability.pdb
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\obj\Debug\net6.0\Chain of Responsability.genruntimeconfig.cache
+C:\Users\442go\Desktop\UTM\Anul III\Sem II\TMPS\Lab3\Chain of Responsability\obj\Debug\net6.0\ref\Chain of Responsability.dll
